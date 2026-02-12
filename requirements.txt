@@ -1,0 +1,6 @@
+imapclient
+pandas
+numpy
+pytz
+SQLAlchemy
+mysql-connector-python
