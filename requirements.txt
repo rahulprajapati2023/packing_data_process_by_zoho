@@ -4,3 +4,4 @@ numpy
 pytz
 SQLAlchemy
 mysql-connector-python
+pymysql
